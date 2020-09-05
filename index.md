@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Austin](北回歸線拷貝.jpg)
+![avatar](北回歸線拷貝.jpg)
 
 # Austin Wu
 
